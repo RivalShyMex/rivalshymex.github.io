@@ -1,4 +1,4 @@
-h1{font-size:12px;
+h1{font-size:20px;
 font-family:Arial, Helvetica, sans-serif;
 font-weight:bold;
 color:#FFCC00;}
@@ -53,22 +53,22 @@ font-family:Arial, Helvetica, sans-serif;
 color:#b92828;
 margin-left:16px;}
 
-a:link{font-size:10px;
+a:link{font-size:15px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#ab2d2d;}
 
-a:visited{font-size:10px;
+a:visited{font-size:15px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#8f9200;}
 
-a:active{font-size:10px;
+a:active{font-size:15px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#9e7902;}
 
-a:hover{font-size:10px;
+a:hover{font-size:15px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#950101;}
