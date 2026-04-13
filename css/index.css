@@ -1,24 +1,24 @@
-h1{font: size 45px;
+h1{font-size: 45px;
 font-family:Arial, Helvetica, sans-serif;
 font-weight:bold;
 color:#FFCC00;}
 
-a:link{font-size:35px;
+a:link{font-size: 35px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#ab2d2d;}
 
-a:visited{font-size:35px;
+a:visited{font-size: 35px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#8f9200;}
 
-a:active{font-size:35px;
+a:active{font-size: 35px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#9e7902;}
 
-a:hover{font-size:35px;
+a:hover{font-size: 35px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
 color:#950101;}
