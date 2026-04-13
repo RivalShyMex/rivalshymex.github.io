@@ -3,56 +3,6 @@ font-family:Arial, Helvetica, sans-serif;
 font-weight:bold;
 color:#FFCC00;}
 
-h2{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:bold;
-color:#000000;}
-/*Nebenueberschrift schwarz*/
-
-h3{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:bold;
-color:#FF0000;
-margin-left:16px;}
-/*Nebenueberschrift rot*/
-
-h4{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:bold;
-color:#FF0000;
-margin-left:16px;}
-/*Nebenueberschrift einger�ckt rot*/
-
-h5{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:bold;
-color:#FFFFFF;}
-/*Nebenueberschrift rot*/
-
-h6{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:normal;
-color:#333333;}
-/*Nebenueberschrift grau*/
-
-p{font-size:10px;
-font-family:Arial, Helvetica, sans-serif;
-color:#FFFFFF;}
-
-p.left{font-size:10px;
-font-family:Arial, Helvetica, sans-serif;
-color:#FFFFFF;}
-
-p.fett{font-size:12px;
-font-family:Arial, Helvetica, sans-serif;
-font-weight:bold;
-color:#FF0000;}
-
-li{font-size:10px;
-font-family:Arial, Helvetica, sans-serif;
-color:#b92828;
-margin-left:16px;}
-
 a:link{font-size:15px;
 font-family:Arial, Helvetica, sans-serif;
 text-decoration:none;
